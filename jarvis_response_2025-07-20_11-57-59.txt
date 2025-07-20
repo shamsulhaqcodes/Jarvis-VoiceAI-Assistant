@@ -1,0 +1,10 @@
+[2025-07-20 11:59:12] You: who can develop you
+[2025-07-20 11:59:12] Jarvis: I was developed by ShamsulHaq.
+
+
+[2025-07-20 11:59:39] You: open Google
+[2025-07-20 11:59:39] Jarvis: Opening Google
+
+[2025-07-20 12:00:17] You: Play Meri Baat Ban Gayi Hai
+[2025-07-20 12:00:17] Jarvis: Playing meri baat ban gayi hai
+
